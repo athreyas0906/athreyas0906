@@ -1,5 +1,4 @@
-hello there
-im a cs master~
+cs master(frfr) // differential enjoyer
 
 
 
