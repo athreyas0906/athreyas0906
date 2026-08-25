@@ -1,7 +1,10 @@
 <p style='font-family= Space Mono, monospace;'> cs master(frfr) // differential enjoyer // pro-crastinator </p>
 
 
-<img width="388" height="190" alt="image" src="https://github.com/user-attachments/assets/ccd35c75-7a33-4610-8089-7902930cbf25" />
+<!--<img width="388" height="190" alt="image" src="https://github.com/user-attachments/assets/ccd35c75-7a33-4610-8089-7902930cbf25" />-->
+
+
+<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/bb460fc9-aed8-4a98-99b1-42e0e4683605" />
 
 <!--
 **athreyas0906/athreyas0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
