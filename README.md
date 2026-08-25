@@ -1,9 +1,8 @@
-## Hi there 👋
-
-
-
 hello there
 im a cs master~
+
+
+
 <img width="388" height="190" alt="image" src="https://github.com/user-attachments/assets/ccd35c75-7a33-4610-8089-7902930cbf25" />
 
 <!--
